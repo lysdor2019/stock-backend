@@ -1,0 +1,6 @@
+{
+  "name": "stock-backend",
+  "version": "1.0.0",
+  "description": "轻量后端：代理 Yahoo Finance 实时股票数据",
+  "private": true
+}
